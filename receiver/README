@@ -1,0 +1,9 @@
+This directory contains simple but functional receiver examples
+implemented using the GNU Radio Companion.
+
+Before you execute any of the scripts you should check the USRP and
+audio settings to ensure that they are compatible with your hardware.
+
+More description and video demos are avaialble at
+http://www.oz9aec.net/index.php/gnu-radio/grc-examples
+
