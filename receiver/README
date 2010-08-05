@@ -4,6 +4,12 @@ implemented using the GNU Radio Companion.
 Before you execute any of the scripts you should check the USRP and
 audio settings to ensure that they are compatible with your hardware.
 
+The xyz_rec.grc and xyz_play.grc files are special editions of the receivers
+that I have used for recording and playback of the received spectrum.
+
 More description and video demos are avaialble at
 http://www.oz9aec.net/index.php/gnu-radio/grc-examples
+
+Alex
+OZ9AEC
 
