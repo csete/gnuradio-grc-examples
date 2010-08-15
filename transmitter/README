@@ -1,0 +1,16 @@
+This directory contains simple but functional transmitter examples
+implemented using the GNU Radio Companion.
+
+Before you execute any of the scripts you should check the USRP and
+audio settings to ensure that they are compatible with your hardware.
+
+The lsb_tx_bpf.grc and usb_tx_bpf.grc examples are simple SSB transmitters
+implemented using simple AM modulation where the sideband is selected
+uasing a complex band pass filter.
+
+More description and video demos are avaialble at
+http://www.oz9aec.net/index.php/gnu-radio/grc-examples
+
+Alex
+OZ9AEC
+
