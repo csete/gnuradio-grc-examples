@@ -21,7 +21,7 @@
     </param>
     <param>
       <key>description</key>
-      <value>LSB transmitter using complex band pass filter</value>
+      <value>LSB transmitter using complex band pass filter.</value>
     </param>
     <param>
       <key>window_size</key>
