@@ -1,4 +1,7 @@
 Simple examples implemented using the GNU Radio Companion.
+
+This is the "uhd" branch that uses the new Universal Hardware Drivers from Ettus Research and the gr-uhd component (available in the "next" branch of GNU Radio).
+
 More info and video demos available at
 http://www.oz9aec.net/index.php/gnu-radio/grc-examples
 
