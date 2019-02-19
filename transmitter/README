@@ -8,8 +8,8 @@ The lsb_tx_bpf.grc and usb_tx_bpf.grc examples are simple SSB transmitters
 implemented using simple AM modulation where the sideband is selected
 uasing a complex band pass filter.
 
-More description and demo videos are avaialble at
-http://www.oz9aec.net/index.php/gnu-radio/grc-examples
+More information and demo videos are available at
+http://oz9aec.net/radios/gnu-radio/grc-examples
 
 Alex
 OZ9AEC
